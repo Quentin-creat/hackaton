@@ -1,28 +1,28 @@
 
-#  Hackaton !
+# Hackaton!
 
-#  Le concept
-
-  
-
-- Notre extension servirait aux personnes malvoyantes d'entendre le contenu des pages web, et d'y naviguer grâce au moins de touches possibles sur le clavier et à terme grâce à un assistant vocal comme siri pour les cas les plus sévères.
-- Une fois que l'utilisateur arrive sur le site de son choix, il peut naviguer entre les blocs de contenus (div, section, etc ...) pour les faire lire par un assistant vocal et ce dernier peut lui proposer plusieurs actions lors de sa lecture (aller sur un lien, cliquer sur un bouton, remplir un formulaire ...) en validant en appuyant sur la touche entrée.
+# The concept
 
   
 
-  
-
-#  Gestion du projet (GitHub)
+- Our extension would allow visually impaired people to hear the content of web pages, and to navigate through them with the fewest possible keys on the keyboard and eventually with a voice assistant like Siri for the most severe cases.
+- Once the user arrives on the site of his choice, he can navigate between the content blocks (div, section, etc ...) to have them read by a voice assistant and the latter can propose several actions during his reading (go to a link, click on a button, fill out a form ...) by validating by pressing the enter key.
 
   
 
   
 
-- Définition de Milestone (sous forme de user-story), regroupant des issues (fonctionnalités) automatisées, référencées dans le Kanban GitHub.
+# Project management (GitHub)
 
   
 
-- WorkFlow Gitflow (chaque feature a sa branche) :
+  
+
+- Milestone definition (in the form of user-story), grouping together automated issues (functionalities), referenced in the GitHub Kanban.
+
+  
+
+- Gitflow Workflow (each feature has its branch) :
 
   
 
@@ -32,15 +32,15 @@
 
   
 
-#  Maquettes graphiques
+# Graphical mockups
 
-- Faite sur [Figma](https://www.figma.com/file/KpFONvxwDazZfQuDalFi93/HACKATHON-MIAGE?node-id=0%3A1)
+- Done on [Figma](https://www.figma.com/file/KpFONvxwDazZfQuDalFi93/HACKATHON-MIAGE?node-id=0%3A1)
 
 
-# Ressources
+# Resources
 
-- N'ayant pas de connaissances particulières en développement d'extension, nous aurons besoin de plusieurs ressources et documentation pour nous aider à nous former pour réaliser cette tâche.
+- As we don't have any particular knowledge in extension development, we will need several resources and documentation to help us to train ourselves to do this task.
 
-Créer une extension chrome : [Comment créer une extension Google Chrome ? — Codeur Tuto](https://www.codeur.com/tuto/creation-de-site-internet/comment-creer-extension-google-chrome/)
+Creating a Chrome extension : [How to create a Google Chrome extension - Coder Tuto](https://www.codeur.com/tuto/creation-de-site-internet/comment-creer-extension-google-chrome/)
 
-Gérer un assistant vocal : [Speech recognition and synthesis with simple JavaScript - Coding is Love](https://codingislove.com/speech-with-javascript/)
+Managing a voice assistant: [Speech recognition and synthesis with simple JavaScript - Coding is Love](https://codingislove.com/speech-with-javascript/)
